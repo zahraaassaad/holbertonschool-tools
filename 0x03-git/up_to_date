@@ -1,2 +1,1 @@
-git fetch
-git checkout origin/master -- 0x03-git
+git pull

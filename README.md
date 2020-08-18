@@ -4,4 +4,4 @@ In this project we shed the light on:
 * Github is an online service for Git that provides additional services on top of it.
 * Downloading Vagrant and virtual machine on our personal computers.
 * Creating a project on Github and doing basic tasks as adding README files.
-* Learning abut uname.
+* Learning abut uname. 

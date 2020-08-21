@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 total 12
 -rw-rw-r-- 1 vagrant vagrant 16 Aug 21 14:03 0-current_working_directory
 -rw-rw-r-- 1 vagrant vagrant 49 Aug 21 13:10 1-listit
 -rw-rw-r-- 1 vagrant vagrant 15 Aug 21 13:11 2-bring_me_home
 -rw-rw-r-- 1 vagrant vagrant  0 Aug 21 14:14 3-listfiles
+=======
+#!/bin/bash
+ls -l
+>>>>>>> a5ce95dd4f80f953d1efc7a2da8e3106ed1d94a3

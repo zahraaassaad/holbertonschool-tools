@@ -1,2 +1,2 @@
-total 12
--rw-rw-r-- 1 vagrant vagrant 16 Aug 21 14:03 0-current_working_directory -rw-rw-r-- 1 vagrant vagrant 49 Aug 21 13:10 1-listit -rw-rw-r-- 1 vagrant vagrant 15 Aug 21 13:11 2-bring_me_home -rw-rw-r-- 1 vagrant vagrant  0 Aug 21 14:21 3-listfiles
+#!/bin/bash
+total 12 -rw-rw-r-- 1 vagrant vagrant 16 Aug 21 14:03 0-current_working_directory -rw-rw-r-- 1 vagrant vagrant 49 Aug 21 13:10 1-listit -rw-rw-r-- 1 vagrant vagrant 15 Aug 21 13:11 2-bring_me_home -rw-rw-r-- 1 vagrant vagrant  0 Aug 21 14:21 3-listfiles

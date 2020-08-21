@@ -1,8 +1,2 @@
 total 24
-drwxrwxr-x 2 vagrant vagrant 4096 Aug 21 14:48 .
-drwxrwxr-x 8 vagrant vagrant 4096 Aug 21 13:25 ..
--rw-rw-r-- 1 vagrant vagrant   16 Aug 21 14:48 0-current_working_directory
--rw-rw-r-- 1 vagrant vagrant   49 Aug 21 13:10 1-listit
--rw-rw-r-- 1 vagrant vagrant   15 Aug 21 13:11 2-bring_me_home
--rw-rw-r-- 1 vagrant vagrant  266 Aug 21 14:48 3-listfiles
--rw-rw-r-- 1 vagrant vagrant    0 Aug 21 14:48 4-listmorefiles
+drwxrwxr-x 2 vagrant vagrant 4096 Aug 21 14:48 . drwxrwxr-x 8 vagrant vagrant 4096 Aug 21 13:25 .. -rw-rw-r-- 1 vagrant vagrant   16 Aug 21 14:48 0-current_working_directory -rw-rw-r-- 1 vagrant vagrant   49 Aug 21 13:10 1-listit -rw-rw-r-- 1 vagrant vagrant   15 Aug 21 13:11 2-bring_me_home -rw-rw-r-- 1 vagrant vagrant  266 Aug 21 14:48 3-listfiles -rw-rw-r-- 1 vagrant vagrant    0 Aug 21 14:48 4-listmorefiles
